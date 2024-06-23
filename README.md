@@ -1,4 +1,4 @@
-# Projeto Spring Boot com PostgreSQL e H2
+# Projeto Spring Boot com PostgreSQL e H2 na AWS
 
 Projeto Spring Boot para criação de uma API com integração de banco de dados PostgreSQL e H2 para testes.
 
